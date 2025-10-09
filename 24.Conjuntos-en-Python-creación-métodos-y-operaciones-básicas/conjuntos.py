@@ -10,6 +10,7 @@ print("Pera" not in frutas)
 
 # Agregar
 # Add
+frutas = {"Manzana", "Naranja", "Mandarina", "Naranja"}
 frutas.add("Pera")
 print(frutas)
 
